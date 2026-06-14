@@ -4,3 +4,8 @@
 export function polder_add(a, b) {
   return a + b;
 }
+
+// Vermenigvuldigt twee getallen met elkaar.
+export function polder_multiply(a, b) {
+  return a * b;
+}
