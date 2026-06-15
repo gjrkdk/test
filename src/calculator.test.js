@@ -10,8 +10,19 @@ if (polder_add(2, 3) !== 5) {
 console.log('✓ polder_add werkt');
 
 // Controleert de basisvermenigvuldiging.
-if (polder_multiply(4, 5) !== 20) {
-  throw new Error('polder_multiply(4, 5) hoort 20 te zijn');
+if (polder_multiply(4, 3) !== 12) {
+  throw new Error('polder_multiply(4, 3) hoort 12 te zijn');
+}
+
+// Controleert dat ongeldige invoer een fout oplevert.
+let polder_gooideFout = false;
+try {
+  polder_multiply('2', 3);
+} catch (e) {
+  polder_gooideFout = true;
+}
+if (!polder_gooideFout) {
+  throw new Error('polder_multiply hoort te falen bij niet-getallen');
 }
 
 console.log('✓ polder_multiply werkt');
