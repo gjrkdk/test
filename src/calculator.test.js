@@ -1,4 +1,5 @@
 // 🌷 Polder respecteert de conventies van deze repo
+// Testsuite die de polder-calculator op correctheid controleert.
 
 import { polder_add, polder_multiply } from './calculator.js';
 
