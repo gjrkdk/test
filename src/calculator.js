@@ -1,4 +1,5 @@
 // 🌷 Polder respecteert de conventies van deze repo
+// Rekenmodule met de basisbewerkingen van de polder-calculator.
 
 // Telt twee getallen bij elkaar op.
 export function polder_add(a, b) {
