@@ -6,3 +6,4 @@ In a quiet polder below sea level, an old keeper named Bram tended a single fiel
 Every dawn he walked the dikes, whispering to the flowers as the windmills creaked awake behind him.
 One stormy night the sea pressed hard against the dike, and a narrow crack began to weep cold water into the field.
 Bram pressed his own hand into the gap and held it there through the howling dark, refusing to let his tulips drown.
+By morning the villagers found him frozen stiff but smiling, his arm still plugging the dike that had saved them all.
